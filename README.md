@@ -56,6 +56,6 @@ After running this in terminal we can able to access the rt2_jupyter_interface.i
 # Research Track 2 - Statistical Analysis Assignment-3
 
 -  The goal of this assignment is to show the statistical analysis of professor Carmine Recchiuto RT-1 Assignment 1 turtlebot and my turtlebot RT-1 Assignment and testing which one is better through corresponding hypothesis and statistical tests. 
--  This assignment is referenced from the previous Research track 1 first assignment [rt 1 third assignment](https://github.com/krishanttharun98/turtlebot.git)
+-  This assignment is referenced from the previous Research track 1 first assignment [rt 1 first assignment](https://github.com/krishanttharun98/turtlebot.git)
 ---
 
